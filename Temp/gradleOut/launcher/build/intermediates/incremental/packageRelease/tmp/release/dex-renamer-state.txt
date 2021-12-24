@@ -1,0 +1,4 @@
+#Fri Dec 24 03:40:42 MSK 2021
+base.0=/Users/Volga/Tesr_DicePush/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
