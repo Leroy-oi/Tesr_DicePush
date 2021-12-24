@@ -1,0 +1,200 @@
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:33:44 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 962,85ms
+moved types parse time: 71ms
+candidates parse time : 2ms
+C# parse time         : 459ms
+candidates check time : 90ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:00 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 68,846ms
+moved types parse time: 62ms
+candidates parse time : 2ms
+C# parse time         : 300ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:14 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 424,251ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 451ms
+candidates check time : 62ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:21 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 60,908ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 380ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:24 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122,001ms
+moved types parse time: 74ms
+candidates parse time : 4ms
+C# parse time         : 371ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:32 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,821ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 485ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:34:33 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59,218ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 334ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:35:05 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69,28ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 264ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:35:09 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62,756ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 293ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:36:18 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 479,185ms
+moved types parse time: 85ms
+candidates parse time : 3ms
+C# parse time         : 648ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23.12.2021 22:36:42 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 352,384ms
+moved types parse time: 128ms
+candidates parse time : 4ms
+C# parse time         : 553ms
+candidates check time : 82ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 0:47:20 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 591,84ms
+moved types parse time: 82ms
+candidates parse time : 3ms
+C# parse time         : 499ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 0:48:11 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191,855ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 578ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 0:48:44 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 258,502ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 467ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 0:49:41 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 242,501ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 378ms
+candidates check time : 94ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 1:04:49 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 708,648ms
+moved types parse time: 70ms
+candidates parse time : 2ms
+C# parse time         : 408ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 1:09:56 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 392,758ms
+moved types parse time: 148ms
+candidates parse time : 2ms
+C# parse time         : 653ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 1:09:58 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69,191ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 376ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 1:54:23 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 405,251ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 452ms
+candidates check time : 37ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24.12.2021 2:23:35 : Starting /Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 423,481ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 478ms
+candidates check time : 49ms
+console write time    : 1ms
+
