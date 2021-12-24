@@ -1,2 +1,36 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-355cc05c2c3fd48d7b37ae542e246007
+# Starting compiling UnityEngine.UI.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-67d5b570eff1840758b14e2a38b2781f
+# Starting compiling UnityEditor.TestRunner.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e03b1424b144348888aaca6dcf118f2a
+# Starting compiling UnityEditor.UI.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8f799ffdc2e0b4d6a95208a652475ba1
+# Starting compiling Unity.VSCode.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e347d30a9bec3469da8d86a5b51d0820
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f2619a9f73c014aa1a4d24c7b76f0a91
+# Starting compiling Unity.Mobile.AndroidLogcat.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d1872e9271bf24149ac9100e98f676e1
+# Starting compiling Unity.Timeline.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-95415f99464b34354829b39c0a0e3d1a
+# Starting compiling Unity.TextMeshPro.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-db0a2860749224766b5f213eae03e9ca
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d496f6005049247dd88bff37e5537330
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2c7112fd8007447a1894bdac7767267f
+# Starting compiling Unity.Timeline.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-88377fbe1c05e49228fd23da0e09c146
+# Starting compiling Unity.Rider.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b0b4eebbbebc14bd486f468fc5f9afc0
+# Starting compiling Unity.Notifications.Android.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-20c12aba9d4c6422bb985afefbb32ffb
+# Starting compiling Unity.Notifications.iOS.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-16f3b20a566a942a6afa7ac5aeaae5ec
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a1e6bf12c3719488b90ebfdf967bc725
+# Starting compiling Unity.Notifications.dll
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0679f8090cc84939b729284368dfa3e
 # Starting compiling Assembly-CSharp.dll
-/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a7bc458a242154d35b62f650f21e7da2
+/Volumes/Backup Plus/Backup Plus/Unity/Unity Editors/2020.3.19f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-20cf9a273239443cdae604134ca0f3ba
